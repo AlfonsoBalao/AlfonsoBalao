@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://github.com/AlfonsoBalao/AlfonsoBalao/blob/main/Banner-github.png" width="100%">
+
 <!--
 **AlfonsoBalao/AlfonsoBalao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
