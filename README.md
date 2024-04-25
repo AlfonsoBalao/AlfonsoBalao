@@ -25,9 +25,10 @@
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a></p>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+![AlfonsoBalao's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfonsoBalao&theme=dracula&show_icons=true&hide_border=true&layout=compact)</p>
 
-![AlfonsoBalao's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfonsoBalao&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+
 
 <!--
 **AlfonsoBalao/AlfonsoBalao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
