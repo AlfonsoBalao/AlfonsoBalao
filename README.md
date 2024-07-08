@@ -3,7 +3,7 @@
 <img src="https://github.com/AlfonsoBalao/AlfonsoBalao/blob/main/Banner-github.png" width="100%">
 
 ## About me
-- 🤔 A Junior web & multi-platform developer who pivoted his career path towards programming later in life.
+- 🤔 A web & multi-platform developer who pivoted his career path towards programming later in life.
 - 🔭 I am currently actively seeking new job opportunities.
 - 💻 My first experience in programming was at the age of 12, programming games on my Amstrad CPC 6128+ using BASIC language.
 - 💬 Feel free to ask me anything you'd like to know about me or my projects.
